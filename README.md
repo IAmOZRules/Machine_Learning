@@ -8,3 +8,5 @@ This repository contains implementations of Machine Learning algorithms (along w
  - Z-Score Transformation [Dataset Used: [weight-height.csv](https://github.com/IAmOZRules/Machine_Learning/blob/main/weight-height.csv)]
  - Simple Linear Regression [Dataset Used: [Salary_Data.csv](https://github.com/IAmOZRules/Machine_Learning/blob/main/Salary_Data.csv)]
  - Decision Tree Classification [Dataset Used: [UCI ML Breast Cancer Wisconsin (Diagnostic) Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)]
+ - Logistic Regression with EDA [Dataset Used: [HR_comma_sep.csv](https://github.com/IAmOZRules/Machine_Learning/blob/main/HR_comma_sep.csv)]
+ - Support Vector Regression with EDA [Dataset Used: [sklearn.datasets.load_digits](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)]
