@@ -9,6 +9,6 @@ This repository contains implementations of Machine Learning algorithms (along w
  - Simple Linear Regression [Dataset Used: [Salary_Data.csv](https://github.com/IAmOZRules/Machine_Learning/blob/main/03-Simple%20Linear%20Regression/Salary_Data.csv)]
  - Decision Tree Classification [Dataset Used: [UCI ML Breast Cancer Wisconsin (Diagnostic) Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)]
  - Logistic Regression with EDA [Dataset Used: [HR_comma_sep.csv](https://github.com/IAmOZRules/Machine_Learning/blob/main/05-Logistic%20Regression/HR_comma_sep.csv)]
- - Support Vector Regression with EDA [Dataset Used: [sklearn.datasets.load_digits](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)]
+ - Support Vector Regression with EDA [Dataset Used: [Optical Recognition of Handwritten Digits Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)]
  - K-Means Clustering [Dataset Used: [place.txt](https://github.com/IAmOZRules/Machine_Learning/blob/main/07-K-Means%20Clustering/place.txt)]
  - Gaussian Mixture Model [Dataset Used: [Iris.csv](https://github.com/IAmOZRules/Machine_Learning/blob/main/08-Gaussian%20Mixture%20Model/Iris.csv)]
