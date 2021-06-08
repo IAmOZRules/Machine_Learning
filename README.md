@@ -12,3 +12,4 @@ This repository contains implementations of Machine Learning algorithms (along w
  - Support Vector Regression with EDA [Dataset Used: [Optical Recognition of Handwritten Digits Data Set](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)]
  - K-Means Clustering [Dataset Used: [place.txt](https://github.com/IAmOZRules/Machine_Learning/blob/main/07-K-Means%20Clustering/place.txt)]
  - Gaussian Mixture Model [Dataset Used: [Iris Dataset](https://github.com/IAmOZRules/Machine_Learning/blob/main/08-Gaussian%20Mixture%20Model/Iris.csv)]
+ - K-Nearest Neighbors [Dataset Used: [Iris Dataset](https://github.com/IAmOZRules/Machine_Learning/blob/main/08-Gaussian%20Mixture%20Model/Iris.csv)]
